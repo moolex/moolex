@@ -13,4 +13,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
+          plugin_lines: yes
           plugin_traffic: yes
